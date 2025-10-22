@@ -75,17 +75,8 @@ To ensure that the Laravel community remains welcoming to all, please review and
 ⚖️ License
 The Laravel + React JSX Starter Kit is open-sourced software licensed under the MIT license.
 
-💡 Happy coding! 🚀
-ⵣ
 
-yaml
-Copier le code
 
----
-
-💡 **Conseil :**  
-Sauvegarde ce texte dans ton projet sous le nom `README.md` (à la racine).  
-GitHub le détectera automatiquement et l’affichera joliment sur la page principale de ton dépôt.
 
 
 
